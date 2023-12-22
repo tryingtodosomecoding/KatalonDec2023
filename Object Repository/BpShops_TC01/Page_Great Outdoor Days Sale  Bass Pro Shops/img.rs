@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c411597b-8cbf-418c-a0db-101b7b9c1f93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='EspotContainer']/div/section[3]/div/div[6]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Muddy MTC100k Digital Trail Camera 2-Pack&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6ee30902-4d8a-4da8-9917-6ae688c07fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assets.basspro.com/image/upload/c_scale,f_auto,q_auto,w_403/v1696426701/DigitalCreative/2023/Campaigns/wk40-10-5/Great-Outdoor-Days-Sale/bps_4.png</value>
+      <webElementGuid>e057e776-7a24-4c23-a0aa-93025c2535ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Muddy MTC100k Digital Trail Camera 2-Pack</value>
+      <webElementGuid>68002b11-4cf5-4880-b2ec-c023da92f507</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page&quot;)/div[@class=&quot;styles_Content__u25V0  styles_NoHeaderBanner__qv7WA&quot;]/div[@class=&quot;styles_ContentArea__hyULP&quot;]/div[@class=&quot;styles_CategoryPage__sEKFi styles_DepartmentPageContainer__zp5pK styles_IncludeDepSlot5__zwsYy&quot;]/div[@class=&quot;styles_Slot__gWlDl styles_Slot4__NjyP7&quot;]/div[@id=&quot;EspotContainer&quot;]/div[@class=&quot;siteletWrapper&quot;]/section[@class=&quot;sContainer productCont&quot;]/div[@class=&quot;productGridCont-X3&quot;]/div[@class=&quot;product__item&quot;]/a[1]/img[1]</value>
+      <webElementGuid>f8dc4885-530f-48cd-bf01-d362028dd857</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='EspotContainer']/div/section[3]/div/div[6]/a/img</value>
+      <webElementGuid>b5b1e3ea-5f0e-4d9e-a894-05fb7c2fdca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Muddy MTC100k Digital Trail Camera 2-Pack']</value>
+      <webElementGuid>e6c2b395-6120-4857-83db-0f5042272e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div[6]/a/img</value>
+      <webElementGuid>0c1ce5bf-5b9d-484d-8cf2-d8fbad3acfc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assets.basspro.com/image/upload/c_scale,f_auto,q_auto,w_403/v1696426701/DigitalCreative/2023/Campaigns/wk40-10-5/Great-Outdoor-Days-Sale/bps_4.png' and @alt = 'Muddy MTC100k Digital Trail Camera 2-Pack']</value>
+      <webElementGuid>aaff14cf-e789-4ced-b427-40b1592cb9b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

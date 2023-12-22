@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Apply Manually</name>
+   <tag></tag>
+   <elementGuidId>20ce9e3d-57a0-4f03-a87e-2811055226b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = 'https://marvell.wd2.myworkdayjobs-impl.com/en-US/MarvellCareers/job/Santa-Clara%2C-CA/Senior-Staff-Systems-Applications-Engineer---Ethernet-PHY_2300850/apply/applyManually' and @class = 'css-1vu0gt0' and (text() = 'Apply Manually' or . = 'Apply Manually')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.css-1vu0gt0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0f69ece2-4078-4f42-b67a-bc7a1e69c218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://marvell.wd2.myworkdayjobs-impl.com/en-US/MarvellCareers/job/Santa-Clara%2C-CA/Senior-Staff-Systems-Applications-Engineer---Ethernet-PHY_2300850/apply/applyManually</value>
+      <webElementGuid>8c5a5fe8-54b7-4c2a-91ae-d794b5ac9cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>09ca11d1-bed0-4df3-9396-078111b9381d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>applyManually</value>
+      <webElementGuid>f5dd16e5-d437-405a-b6b2-954ea9be7776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>font-size</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>5638457e-3f39-4744-a6a8-59689650a64a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>40</value>
+      <webElementGuid>6b141fdf-cdc5-41c2-8fd7-d969136f1201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1vu0gt0</value>
+      <webElementGuid>1c4b76f5-3b49-473f-bf3d-1a9a00d9b457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apply Manually</value>
+      <webElementGuid>e201360c-c4f6-4e3e-af32-8b6bf97c492b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;scrollPrevention&quot;]/body[1]/div[@class=&quot;workday-popup-centeringRoot workday-popup-fullGlass&quot;]/div[@class=&quot;workday-popup-centeringTable&quot;]/div[@class=&quot;workday-popup-centeringCell&quot;]/div[@class=&quot;workday-popup wd-popup&quot;]/div[@class=&quot;workday-popup-content wd-popup-content&quot;]/div[1]/div[@class=&quot;css-yin8xu&quot;]/div[@class=&quot;css-gyk776&quot;]/div[@class=&quot;css-1vrc4df&quot;]/div[@class=&quot;css-1s1r74k&quot;]/div[@class=&quot;css-1s1r74k&quot;]/a[@class=&quot;css-1vu0gt0&quot;]</value>
+      <webElementGuid>3fdb109d-fe7a-42a1-97f4-3f6ee97f179f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://marvell.wd2.myworkdayjobs-impl.com/en-US/MarvellCareers/job/Santa-Clara%2C-CA/Senior-Staff-Systems-Applications-Engineer---Ethernet-PHY_2300850/apply/applyManually' and @class = 'css-1vu0gt0' and (text() = 'Apply Manually' or . = 'Apply Manually')]</value>
+      <webElementGuid>9647e7cb-f51e-41ad-8a78-b2c6680343ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Apply Manually')]</value>
+      <webElementGuid>956e08ee-5ba0-40ec-a576-0fa01de968ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autofill with Resume'])[1]/following::a[1]</value>
+      <webElementGuid>8a05c628-5e1a-4dee-896e-fb7f0f590a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Senior Staff Systems Applications Engineer – Ethernet PHY'])[3]/following::a[2]</value>
+      <webElementGuid>f3ff98e6-a5ed-4fd8-8129-b2db58126981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use My Last Application'])[1]/preceding::a[1]</value>
+      <webElementGuid>2b400595-2023-43b5-a654-90cd91f94043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apply Manually']/parent::*</value>
+      <webElementGuid>0cdeaf40-cdfc-4342-9deb-4ae3725afd0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://marvell.wd2.myworkdayjobs-impl.com/en-US/MarvellCareers/job/Santa-Clara%2C-CA/Senior-Staff-Systems-Applications-Engineer---Ethernet-PHY_2300850/apply/applyManually')]</value>
+      <webElementGuid>6fb66545-e427-4cf1-9581-f96ef3d03661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a</value>
+      <webElementGuid>c83fe5e2-f904-4122-ba8a-c839f4694c96</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

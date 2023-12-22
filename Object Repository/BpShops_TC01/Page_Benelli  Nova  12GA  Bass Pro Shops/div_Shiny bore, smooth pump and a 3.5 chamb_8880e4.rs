@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Shiny bore, smooth pump and a 3.5 chamb_8880e4</name>
+   <tag></tag>
+   <elementGuidId>715dd556-cc9e-4e4f-b734-74cd768a4058</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product_longdescription_3074457345624749152']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#product_longdescription_3074457345624749152</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>29073469-1304-443b-9b4c-b1b60bcd22b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>product_longdescription_3074457345624749152</value>
+      <webElementGuid>8edbcdf7-18ec-40b4-b34a-ff4c9e3a59b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		Shiny bore, smooth pump and a 3.5'' chamber make this Benelli nova, a great choice for hunting.
+	</value>
+      <webElementGuid>d206f571-c597-4197-8fb0-779bfacdae7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product_longdescription_3074457345624749152&quot;)</value>
+      <webElementGuid>e807b5dc-4a51-44a4-a696-bbac8426e164</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='product_longdescription_3074457345624749152']</value>
+      <webElementGuid>019aa5db-06ba-4111-8b6d-1521e99b85b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container_3074457345618334823']/div[3]/div[4]/div[3]</value>
+      <webElementGuid>5d4e4ce8-39e6-45c3-8a41-9da1a72323ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::div[2]</value>
+      <webElementGuid>dcdb56be-c349-427b-b633-da28a4591faf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[1]/preceding::div[1]</value>
+      <webElementGuid>a7d45a23-051a-4b65-a308-3e0603140629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Used Gun Details'])[1]/preceding::div[4]</value>
+      <webElementGuid>2262b133-10ec-47ac-b186-72ab705f09c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]/div[3]</value>
+      <webElementGuid>693515fb-770a-4e40-8e26-90fe5f468dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'product_longdescription_3074457345624749152' and (text() = concat(&quot;
+		Shiny bore, smooth pump and a 3.5&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot; chamber make this Benelli nova, a great choice for hunting.
+	&quot;) or . = concat(&quot;
+		Shiny bore, smooth pump and a 3.5&quot; , &quot;'&quot; , &quot;&quot; , &quot;'&quot; , &quot; chamber make this Benelli nova, a great choice for hunting.
+	&quot;))]</value>
+      <webElementGuid>f1f2b3b9-d205-48b9-8bf3-bdd690cfacb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

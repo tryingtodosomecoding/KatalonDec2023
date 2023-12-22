@@ -1,0 +1,20 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool: Default
+#pool:
+  #vmImage: 'windows-latest'
+
+steps:
+#downloads KRE on the agent machine and executes the command on line 17
+- task: katalonTask@1
+  inputs:
+    version: '8.6.6'
+    executeArgs: './katalonc -noSplash -runMode=console -projectPath="/Users/lakshmimukkur/Katalon Studio/Web_Demo/test.prj" -maxFailedTests=1 -retry=0 -testSuitePath="Test Suites/TS02_AzureDevOps" -browserType="Chrome" -executionProfile="default" -apiKey="d5cce49c-e75c-4d7c-b0a7-c30a384a5497" -testOpsProjectId=906550 --config -proxy.auth.option=NO_PROXY -proxy.system.option=NO_PROXY -proxy.system.applyToDesiredCapabilities=true -webui.autoUpdateDrivers=true' 
+    
+    

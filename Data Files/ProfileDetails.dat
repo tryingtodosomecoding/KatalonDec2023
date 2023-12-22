@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>ProfileDetails</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>976334a7-a7a5-4351-a4fb-72d5cef5d5f2</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>%2FUsers%2Flakshmimukkur%2FLibrary%2FApplication+Support%2FGoogle%2FChrome+Prof+2 Profile+2</data>
+   <data>%2FUsers%2Flakshmimukkur%2FLibrary%2FApplication+Support%2FGoogle%2FChrome+Prof+3 Profile+3</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>userdatadirectory</name>
+      <size>2</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>profiledirectory</name>
+      <size>2</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

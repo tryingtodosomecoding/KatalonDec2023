@@ -1,0 +1,16 @@
+.gradle
+bin
+Reports
+Libs
+output
+!output/.gitkeep
+!gitignore
+build
+*.log
+.classpath
+.project
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/

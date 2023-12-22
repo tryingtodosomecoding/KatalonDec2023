@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if users can login successful. 
+
+Steps:
+- Click on 'Book Appointment' button to login
+- Input username and password
+- Click on 'Login' button
+
+Expected result:
+'Appointment' section is displayed after successful login</description>
+   <name>ForParalleExec_P2</name>
+   <tag></tag>
+   <comment>Story: Login to CURA system
+Given that the user has valid login information
+When he logins to CURA system
+Then he should be able to login successfully</comment>
+   <testCaseGuid>39269108-6d80-48d3-bcbc-94569ea44ff9</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>edf25de9-8e9d-4070-8f9a-5800fee31d27</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Users</testDataId>
+   </testDataLinks>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>07ba0480-af45-4272-817d-4044618cec44</id>
+      <iterationEntity>
+         <iterationType>SPECIFIC</iterationType>
+         <value>1</value>
+      </iterationEntity>
+      <testDataId>Data Files/ProfileDetails</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>edf25de9-8e9d-4070-8f9a-5800fee31d27</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>User</value>
+      <variableId>3d59e675-69c5-4406-950c-aef4edbd8183</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>edf25de9-8e9d-4070-8f9a-5800fee31d27</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Pass</value>
+      <variableId>e1abe41c-f909-4da1-993c-ee0d903393ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>07ba0480-af45-4272-817d-4044618cec44</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>userdatadirectory</value>
+      <variableId>d21700ec-a153-4bbe-9053-da4cf2c5d5d9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>07ba0480-af45-4272-817d-4044618cec44</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>profiledirectory</value>
+      <variableId>bfefc384-515f-4026-8e68-ce7be801eb52</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>3d59e675-69c5-4406-950c-aef4edbd8183</id>
+      <masked>false</masked>
+      <name>User</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>e1abe41c-f909-4da1-993c-ee0d903393ce</id>
+      <masked>false</masked>
+      <name>Pass</name>
+   </variable>
+   <variable>
+      <defaultValue>'/Users/lakshmimukkur/Library/Application Support/Google/Chrome Prof 2'</defaultValue>
+      <description></description>
+      <id>d21700ec-a153-4bbe-9053-da4cf2c5d5d9</id>
+      <masked>false</masked>
+      <name>userdatadirectory</name>
+   </variable>
+   <variable>
+      <defaultValue>'Profile 2'</defaultValue>
+      <description></description>
+      <id>bfefc384-515f-4026-8e68-ce7be801eb52</id>
+      <masked>false</masked>
+      <name>profiledirectory</name>
+   </variable>
+</TestCaseEntity>

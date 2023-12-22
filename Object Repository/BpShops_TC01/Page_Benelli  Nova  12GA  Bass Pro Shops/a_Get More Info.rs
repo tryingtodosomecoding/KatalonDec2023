@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Get More Info</name>
+   <tag></tag>
+   <elementGuidId>0f2dc7dd-08c0-44d8-b016-f4b3ebc93ec6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='SKU_List_Widget_Add2CartButton_3074457345624749652_table']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#SKU_List_Widget_Add2CartButton_3074457345624749652_table</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ed7deccc-390e-48ac-84fe-2c3b5c7916ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>SKU_List_Widget_Add2CartButton_3074457345624749652_table</value>
+      <webElementGuid>84f75c66-8c3d-4254-a8b5-1a7508e34b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Get More Info Button for &quot;++BENELLI NOVA 12 GAUGE&quot;</value>
+      <webElementGuid>e1edaebc-fa98-48a6-9a90-430ec8b9b3e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn primary chartcomposerprimary left pdp_chart_addtocart_button ug_get_more_info</value>
+      <webElementGuid>83597bd4-ccf1-4ed5-908b-565579976307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeypress</name>
+      <type>Main</type>
+      <value>javascript:BPSUsedGunRequestJS.firearmContact('3074457345624749652','');return false;</value>
+      <webElementGuid>83eb1716-dbb9-4d69-b3c5-463e773bc7d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>javascript: if (typeof onBehalfUtilitiesJS == 'undefined') {BPSUsedGunRequestJS.firearmContact('3074457345624749652','');return false;} else if (onBehalfUtilitiesJS.csrProceedCheck()) {BPSUsedGunRequestJS.firearmContact('3074457345624749652','');return false;} else {MessageHelper.displayErrorMessage(MessageHelper.messages['ERROR_CSR_USER_PROCEED']);}</value>
+      <webElementGuid>5cbf99d3-1149-4273-8f3f-af5efa405bd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a7409414-4bbd-40e1-9988-d946c63fbf3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ss-variation-applied</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5ec871b6-6e0c-48da-8f8c-3e07a914799f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_ss168c</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>14978e9d-65d1-4cb0-8117-3c007ccab762</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get More Info</value>
+      <webElementGuid>7dbd32f2-c7fa-4389-808b-0f2beb5d4414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SKU_List_Widget_Add2CartButton_3074457345624749652_table&quot;)</value>
+      <webElementGuid>9c51a6ec-b8ea-416d-95cd-56913971485d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='SKU_List_Widget_Add2CartButton_3074457345624749652_table']</value>
+      <webElementGuid>66940c62-53fb-46e4-bb4a-e9764ad40a84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='WC_Sku_List_TableContent_3074457345624749152_Price &amp; Availability_1_13_grid']/a</value>
+      <webElementGuid>0e22e6bd-e3ee-4708-9998-3465ec74cc8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Get More Info')]</value>
+      <webElementGuid>5acf3c29-31a5-4f40-bc00-13c0664552c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(218) 773 - 0282'])[3]/following::a[1]</value>
+      <webElementGuid>73850d80-2f0f-40ec-ab4b-807a1fb478d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='East Grand Forks, MN 56721'])[2]/following::a[1]</value>
+      <webElementGuid>ef76c3e5-3e86-41cf-b81d-1c7c3634c1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Store For Availability'])[1]/preceding::a[1]</value>
+      <webElementGuid>9a23cc14-8b1c-493a-8cde-08b6b7bb2e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model Number'])[2]/preceding::a[2]</value>
+      <webElementGuid>34562105-cd67-4ed5-ab06-25f31642fd9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get More Info']/parent::*</value>
+      <webElementGuid>8e647da8-37e0-464a-a230-bf656edfa2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[11]</value>
+      <webElementGuid>9e1557b8-d8eb-4488-9ab2-7724921709cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div[3]/a</value>
+      <webElementGuid>33a94893-7c55-40f0-a820-9b22ce357c8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'SKU_List_Widget_Add2CartButton_3074457345624749652_table' and @href = '#' and (text() = 'Get More Info' or . = 'Get More Info')]</value>
+      <webElementGuid>8f48d79a-3cdd-48e9-8afe-7e6d4d793365</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

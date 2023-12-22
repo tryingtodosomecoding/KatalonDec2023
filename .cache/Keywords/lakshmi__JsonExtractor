@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "876794183FC4B78955B7FDE33E5A61B3",
+  "keywordClasses": [
+    {
+      "name": "lakshmi.JsonExtractor",
+      "keywordMethods": [
+        {
+          "name": "extractTitleAndAuthor",
+          "parameters": [
+            {
+              "name": "jsonString",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

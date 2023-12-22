@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Texas</name>
+   <tag></tag>
+   <elementGuidId>6a1b2dc8-6343-4799-ba78-bb850c51af85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Texas' or . = 'Texas')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#xruz3pl > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2580d57-2433-4b57-bf36-3b46ff1ab6bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Texas</value>
+      <webElementGuid>57475083-0600-4482-946b-8ee185c6bc44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xruz3pl&quot;)/div[1]</value>
+      <webElementGuid>a9598b40-011a-4e8f-be35-0503999934b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Texas' or . = 'Texas')]</value>
+      <webElementGuid>93a69cac-1d61-4f44-b10c-44a816d7bcda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='xruz3pl']/div</value>
+      <webElementGuid>4c99a974-2078-4988-8262-0361982417cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tennessee'])[1]/following::div[1]</value>
+      <webElementGuid>4358052a-8433-411d-8322-82dcbe900065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='South Dakota'])[1]/following::div[2]</value>
+      <webElementGuid>dfe18f7d-0c3c-4a80-9d50-be9fbe0fe834</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='United States Minor Outlying Islands'])[1]/preceding::div[1]</value>
+      <webElementGuid>dac5ad30-15dd-44c1-92c6-39b6853be2a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utah'])[1]/preceding::div[2]</value>
+      <webElementGuid>0ba57038-8d76-4389-b35c-f469db4355be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Texas']/parent::*</value>
+      <webElementGuid>39244fb2-89c1-47b3-8cc4-d869db88ee84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[52]/div</value>
+      <webElementGuid>00b6347f-6c3d-4cbe-9411-fb1a05c92cea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

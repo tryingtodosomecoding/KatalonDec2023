@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register Patient</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e70647c9-90fc-4f47-86cc-4cdcdb1381ff</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>bbe028f2-49ef-4671-a463-b7d9110a00df</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/HealthcarePatientData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>bbe028f2-49ef-4671-a463-b7d9110a00df</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>firstname</value>
+      <variableId>7df86e1e-db8c-471f-8ba6-cf8d52db4470</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>bbe028f2-49ef-4671-a463-b7d9110a00df</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>lastname</value>
+      <variableId>8721c3b3-894e-4467-8e54-04b1bcdae7d7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7df86e1e-db8c-471f-8ba6-cf8d52db4470</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8721c3b3-894e-4467-8e54-04b1bcdae7d7</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+</TestCaseEntity>

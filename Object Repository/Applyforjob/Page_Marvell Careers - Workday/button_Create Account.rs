@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create Account</name>
+   <tag></tag>
+   <elementGuidId>08d594bc-1fb9-434d-bc7c-86a27d70c91e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@data-automation-id = 'createAccountLink' and (text() = 'Create Account' or . = 'Create Account')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.css-14pfav7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>677525c6-25b0-4f0f-8cc7-4ee066bafdea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-automation-id</name>
+      <type>Main</type>
+      <value>createAccountLink</value>
+      <webElementGuid>d7ebe11d-1156-4973-acfc-483d49b079d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-14pfav7</value>
+      <webElementGuid>c9442255-9e61-4b95-adad-e726a83993f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Account</value>
+      <webElementGuid>0e1bc695-e944-4e08-870d-9765141a27d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wd-Authentication-NO_METADATA_ID-uid6&quot;)/div[1]/div[@class=&quot;css-ecyovj&quot;]/div[1]/div[@class=&quot;css-2oj4py&quot;]/button[@class=&quot;css-14pfav7&quot;]</value>
+      <webElementGuid>4ecce13f-8cda-4dba-9b8f-fea44be1118a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@data-automation-id = 'createAccountLink' and (text() = 'Create Account' or . = 'Create Account')]</value>
+      <webElementGuid>e11c8f0f-ae27-41da-9acb-92c51445a299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wd-Authentication-NO_METADATA_ID-uid6']/div/div/div/div/button</value>
+      <webElementGuid>9ae52cd0-56d7-4cee-8540-d01a43594bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[2]</value>
+      <webElementGuid>89dbff5c-f24e-42db-993d-2aee4a386ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot your password?'])[1]/preceding::button[1]</value>
+      <webElementGuid>26cda06d-d3b2-4c17-a58a-e3fc84a19061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Enter website. This input is for robots only, do not enter if you', &quot;'&quot;, 're human.')])[1]/preceding::button[2]</value>
+      <webElementGuid>f9eb08a6-a78b-4dd1-8989-3387d490168a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Account']/parent::*</value>
+      <webElementGuid>058f36a5-7dd3-4111-ad2e-de3f1f9abe54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>e9628dd6-1b0d-4497-be7a-1173ae2a7aa0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_51Job</name>
+   <tag></tag>
+   <elementGuidId>277204d1-5e30-496b-a440-fee9e1572fab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = '51Job' or . = '51Job')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#xruz2 > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a928c06-b9c1-4e9d-ba62-ed1703cab232</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>51Job</value>
+      <webElementGuid>1d87ffd2-1d06-4b1d-bb31-86008bfbc22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xruz2&quot;)/div[1]</value>
+      <webElementGuid>6116b9cb-25b4-4f72-a3fe-64d48ba89b41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '51Job' or . = '51Job')]</value>
+      <webElementGuid>1e177bc0-e1ef-47ac-8445-7bb8f8fc3f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='xruz2']/div</value>
+      <webElementGuid>34315ef9-1b2b-42b1-b076-674555f37216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='select one'])[4]/following::div[2]</value>
+      <webElementGuid>6ef9beb9-7aa3-47f4-9ca2-a1b9395163a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save and Continue'])[1]/following::div[6]</value>
+      <webElementGuid>50cc4a6b-e594-4581-ad0e-09a845686168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acquisition'])[1]/preceding::div[1]</value>
+      <webElementGuid>74e71aa4-fde0-4afe-ba37-e4abd507028f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Jobs'])[1]/preceding::div[2]</value>
+      <webElementGuid>5f0f48ae-5515-4b99-8233-94133ab45b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='51Job']/parent::*</value>
+      <webElementGuid>2acc2a75-0fc8-4fec-b882-6f6975e4a32f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div</value>
+      <webElementGuid>47d91e2c-5693-4158-b904-30567539175f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

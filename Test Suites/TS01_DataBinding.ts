@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01_DataBinding</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient>lakshmi.mukkur@katalon.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>3dd64554-b85a-4cf8-8ffc-c674ceb5b682</testSuiteGuid>
+   <testCaseLink>
+      <guid>8c2ac355-d144-449d-b448-4b431b355697</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Main Test Cases/TC7_HandlingDynamicObjects_WithDataBinding</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>800bd210-277f-4146-837b-f8c37e65db6f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c72d5f02-e4ed-4b1a-9631-74a52bdab946</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5d82ef12-33a4-4a78-8a45-062e71aeb7e1</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
