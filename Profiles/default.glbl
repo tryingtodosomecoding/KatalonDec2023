@@ -59,4 +59,9 @@
       <initValue>'https://katalon-demo-cura.herokuapp.com/ '</initValue>
       <name>G_SiteURL</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>G_Timeout</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
