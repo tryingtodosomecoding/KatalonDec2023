@@ -1,0 +1,35 @@
+# This file is a template, and might need editing before it works on your project.
+# This is a sample GitLab CI/CD configuration file that should run without any modifications.
+# It demonstrates a basic 3 stage CI/CD pipeline. Instead of real tests or scripts,
+# it uses echo commands to simulate the pipeline execution.
+#
+# A pipeline is composed of independent jobs that run scripts, grouped into stages.
+# Stages run in sequential order, but jobs within stages run in parallel.
+#
+# For more information, see: https://docs.gitlab.com/ee/ci/yaml/index.html#stages
+#
+# You can copy and paste this template into a new `.gitlab-ci.yml` file.
+# You should not add this template to an existing `.gitlab-ci.yml` file by using the `include:` keyword.
+#
+# To contribute improvements to CI/CD templates, please follow the Development guide at:
+# https://docs.gitlab.com/ee/development/cicd/templates.html
+# This specific template is located at:
+# https://gitlab.com/gitlab-org/gitlab/-/blob/master/lib/gitlab/ci/templates/Getting-Started.gitlab-ci.yml
+
+# Requirements
+# A Katalon Studio project with the content saved in the root repository folder. If the project is under another location, you need to update KATALON_PROJECT_DIR with the corresponding value in the variable section
+# An active KRE license
+# A valid Katalon API key, which is stored as KATALON_API_KEY in Settings/CI/CD/Variables
+image: 'katalonstudio/katalon' # Use the latest version of Katalon Runtime Engine. We can also use other versions of Katalon Runtime Engine by specifying another tag, such as `katalonstudio/katalon:8.1.2` or `katalonstudio/katalon:8.3.0`
+services:
+  - docker:dind
+variables:
+  # Specify Katalon Studio project directory. By default, it is stored under the root project folder.
+  KATALON_PROJECT_DIR: $CI_PROJECT_DIR
+stages:
+  - test
+test_job:
+  stage: test
+  # Update your desired katalonc commands. All of katalonc supported arguments can be found in this document https://docs.katalon.com/katalon-studio/docs/console-mode-execution.html
+  script:
+    - katalonc.sh -projectPath=$KATALON_PROJECT_DIR -apiKey=$KATALON_API_KEY -browserType="Chrome" -retry=0 -statusDelay=20 -testSuitePath="Test Suites/TS01_GitLabExecution_Jan2024" 
